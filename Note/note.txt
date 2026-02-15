@@ -1,0 +1,11 @@
+Microsoft cmd - netstart (a command-line utility used to display active TCP connections, listening ports, Ethernet statistics, and the IP routing table)
+
+Press Win
+Type PowerShell
+Right-click → Run as administrator
+Then execute:
+netstat -b
+
+
+
+
