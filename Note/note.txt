@@ -7,5 +7,9 @@ Then execute:
 netstat -b
 
 
+In linux we can use find sometimes in stead of cd or ls   ----- find -name *.txt
 
 
+for search i use ue grep  ----  grep "81.143.211.90" access.log
+
+for recursive search    ---- grep -R "PRETTY_NAME" /etc/
